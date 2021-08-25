@@ -3,9 +3,9 @@ Temporary
 Hello everyone
 ### This is smaller
 #### This is smallest
-'''
+```
 def fn(x):
-'''
+```
 Let's make a list 
 * 1
 *2
