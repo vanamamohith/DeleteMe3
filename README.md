@@ -21,5 +21,5 @@ Make a 3rd list
    2. go 
 * Push
 ------
-Link to [Google] (https://www.google.com)
+Link to [Google](https://www.google.com)
 
